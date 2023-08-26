@@ -1,17 +1,19 @@
 
-# Architecture
+# :classical_building: Architecture
 
 Here is the Architecture:
+![](https://github.com/mohsin-786/Voting-App-Kubernetes/blob/main/lol.gif)
 
 
-# Voting App Deployment
+
+# :open_book: About this Voting App
 
 This Project runs a Voting web-app using Kubernetes Deployments and Services.
 
 It uses Redis and Postgres as Database & Python and NodeJS for Frontend.
 
 
-## Installation
+## :inbox_tray: Installation
 
 To run in local machine using Minikube
 
@@ -45,7 +47,7 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube
 minikube start --kubernetes-version=latest
 
 ```
-## Deployment
+## :cloud: Deployment
 
 To deploy this project run the below command for each file:
 
